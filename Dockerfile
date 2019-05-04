@@ -1,4 +1,4 @@
-FROM openjdk:11.0.1-jdk-slim-sid
+FROM openjdk:12.0.1-jdk
 
 MAINTAINER Yaroslav Admin "yaroslav.admin@softwerk.se"
 
